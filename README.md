@@ -4,7 +4,7 @@
 
 برای نصب افزونه ChatGPT در مرورگر Google Chrome، این مراحل را دنبال کنید:
 
-1. از [اینجا](https://github.com/your-extension-repo) به مخزن (repository) افزونه در GitHub مراجعه کنید.
+1. از [اینجا](https://github.com/armansouri9/NOAI-Research-Assistant/) به مخزن (repository) افزونه در GitHub مراجعه کنید.
 
 2. در صفحه مخزن افزونه، بر روی دکمه "Code" کلیک کنید و سپس گزینه "Download ZIP" را انتخاب کنید تا فایل ZIP مخزن را دانلود کنید.
 
